@@ -17,4 +17,4 @@ Snippets for Sublime Text 2
 
 # Wanna collaborate ?
 
-Feel free to add your snippets collection of Twitter Bootstrap for your favorite Editor and become a collaborator !
+Feel free to add your snippets collection of Twitter Bootstrap for your favorite code editor and become a collaborator !
