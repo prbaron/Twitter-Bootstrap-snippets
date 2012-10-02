@@ -1,6 +1,6 @@
 # Twitter Bootstrap snippets
 
-Twitter bootstrap snippets is a collection of snippets or clips (depending on the editor) to help web developers coding much faster with Twitter bootstrap.
+Twitter bootstrap snippets is a collection of snippets or clips (depending on the editor) to help web developers code much faster with Twitter bootstrap.
 
 It contains the HTML markup of all elements of Twitter Bootstrap.
 
