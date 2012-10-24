@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<form class="form-inline">
+	<input type="text" class="input-small" placeholder="Email">
+	<input type="password" class="input-small" placeholder="Password">
+	<label class="checkbox">
+		<input type="checkbox"> Remember me
+	</label>
+	<button type="submit" class="btn">Sign in</button>
+</form>
+</dl>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbform-inline</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Form :: inline</description>
+</snippet>

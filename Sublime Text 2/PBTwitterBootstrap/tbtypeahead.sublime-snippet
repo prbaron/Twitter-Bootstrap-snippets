@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<input type=​"text" data-provide=​"typeahead" data-items=​"4" data-source=​"["Value1","Value2""]​">​
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbtypeahead</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: JS :: typeahead</description>
+</snippet>

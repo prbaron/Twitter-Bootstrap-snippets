@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="progress progress-striped active ">
+	<div class="bar" style="width: 40%;"></div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!--<tabTrigger>tbprogress</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Progress bar :: animated</description>
+</snippet>

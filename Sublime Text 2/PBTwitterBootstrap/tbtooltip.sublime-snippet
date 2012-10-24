@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" rel="tooltip" title="first tooltip">hover over me</a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbtooltip</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: JS :: tooltip</description>
+</snippet>

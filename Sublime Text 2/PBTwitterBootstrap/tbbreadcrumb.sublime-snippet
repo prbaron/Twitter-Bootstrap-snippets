@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<ul class="breadcrumb">
+	<li><a href="#">Home</a> <span class="divider">/</span></li>
+	<li><a href="#">Library</a> <span class="divider">/</span></li>
+	<li class="active">Data</li>
+</ul> <!-- .breadcrumb -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbbreadcrumb</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Breadcrumb</description>
+</snippet>

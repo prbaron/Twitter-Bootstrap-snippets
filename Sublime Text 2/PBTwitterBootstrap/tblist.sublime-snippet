@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<ul class="nav nav-list">
+	<li class="nav-header">List header</li>
+	<li class="active"><a href="#">Home</a></li>
+	<li><a href="#">Library</a></li>
+</ul> <!-- .nav-list -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tblist</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Nav :: list</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="hero-unit">
+	<h1>Heading</h1>
+	<p>Tagline</p>
+	<p>
+		<a class="btn btn-primary btn-large">Learn more</a>
+	</p>
+</div> <!-- .hero-unit -->]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbhero-unit</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Typography :: hero-unit</description>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<ul class="thumbnails">
+	<li class="span4">
+		<div class="thumbnail">
+			<img src="http://placehold.it/300x200" alt="">
+			<h3>Thumbnail label</h3>
+			<p>Thumbnail caption...</p>
+		</div> <!-- .thumbnail -->
+  	</li> <!-- .span -->
+</ul> <!-- .thumbnails-->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbthumbnail</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Thumbnail</description>
+</snippet>

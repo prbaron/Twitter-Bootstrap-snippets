@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<ul class="pager">
+	<li><a href="#">Previous</a></li>
+	<li><a href="#">Next</a></li>
+</ul> <!-- .pager -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbpager</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Pagination :: pager</description>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-toolbar">
+	<div class="btn-group">
+		<button class="btn">1</button>
+		<button class="btn">2</button>
+		<button class="btn">3</button>
+	</div> <!-- .btn-group -->
+</div> <!-- .btn-toolbar -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbbtn-toolbar</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Button :: toolbar</description>
+</snippet>

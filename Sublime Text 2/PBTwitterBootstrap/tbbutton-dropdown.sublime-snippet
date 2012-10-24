@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group">
+	<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+		Action
+		<span class="caret"></span>
+	</a>
+	<ul class="dropdown-menu">
+		<li><a tabindex="-1" href="#">Action</a></li>
+		<li><a tabindex="-1" href="#">Another action</a></li>
+		<li><a tabindex="-1" href="#">Something else here</a></li>
+		<li class="divider"></li>
+		<li><a tabindex="-1" href="#">Separated link</a></li>
+	</ul>
+</div> <!-- .btn-group -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbbtn-dropdown</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Button :: dropdown</description>
+</snippet>

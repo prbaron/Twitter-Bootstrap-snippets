@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-prepend">
+	<span class="add-on">@</span><input class="span2" id="prependedInput" size="16" type="text" placeholder="Username">
+</div>
+</dl>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!--<tabTrigger></tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Form :: input-prepend</description>
+</snippet>

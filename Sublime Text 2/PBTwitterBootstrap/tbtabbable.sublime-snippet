@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<div class="tabbable"> <!-- Only required for left/right tabs -->
+	<ul class="nav nav-tabs">
+		<li class="active"><a href="#tab1" data-toggle="tab">Section 1</a></li>
+		<li><a href="#tab2" data-toggle="tab">Section 2</a></li>
+	</ul>
+	<div class="tab-content">
+		<div class="tab-pane active" id="tab1">
+			<p>I'm in Section 1.</p>
+		</div> <!-- .tab-pane -->
+		<div class="tab-pane" id="tab2">
+			<p>Howdy, I'm in Section 2.</p>
+		</div> <!-- .tab-pane -->
+	</div> <!-- .nav-content -->
+</div> <!-- .tabbable -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbtabbable</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: tabbable</description>
+</snippet>

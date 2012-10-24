@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="control-group ${1:}">
+  <label class="control-label" for="input">Input with warning</label>
+  <div class="controls">
+    <input type="text" id="input">
+    <span class="help-inline">Something may have gone wrong</span>
+  </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!--<tabTrigger>tbform-states</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>TB :: Form :: states</description>
+</snippet>

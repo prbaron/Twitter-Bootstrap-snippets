@@ -7,12 +7,24 @@ It contains the HTML markup of all elements of Twitter Bootstrap.
 
 # Versions of Twitter Bootstrap
 
+<<<<<<< HEAD
 **Coda 2 :** v2.1.1
+=======
+** Coda 2 : ** v2.1.1
+** Sublime Text 2 : ** v2.1.1
+>>>>>>> added Sublime Text 2 snippets
 
+#Installation
+
+## Coda 2
+Just double click on the downloaded file
+
+## Sublime Text 2
+Open Browse Package and place PBTwitterBootstrap folder in the User folder
 
 # What's next ?
 
-Snippets for Sublime Text 2
+Improvements of the snippets by providing suggestions when (and if!) possible
 
 
 # Wanna collaborate ?
