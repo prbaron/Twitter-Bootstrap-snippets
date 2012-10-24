@@ -7,12 +7,8 @@ It contains the HTML markup of all elements of Twitter Bootstrap.
 
 # Versions of Twitter Bootstrap
 
-<<<<<<< HEAD
-**Coda 2 :** v2.1.1
-=======
 ** Coda 2 : ** v2.1.1
 ** Sublime Text 2 : ** v2.1.1
->>>>>>> added Sublime Text 2 snippets
 
 #Installation
 
